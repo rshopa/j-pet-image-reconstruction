@@ -1,0 +1,3 @@
+[submodule "jpet-kde-reconstruction"]
+	path = jpet-kde-reconstruction
+	url = git@github.com:rshopa/jpet-kde-reconstruction.git
